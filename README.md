@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on the first game i'll actually finish 
 - 🌱 I’m currently learning Game development and game design
-- 📫 How to reach me: you can reach me on my business email isuckateverythingbussiness@gmail.com or in my discord https://discord.gg/cBHknwus4a
+- 📫 How to reach me: you can reach me on my business email isuckateverythingbussiness@gmail.com or in my [Discord](https://discord.gg/cBHknwus4a)
 - 😄 Pronouns: my pronouns are he/him
 - ⚡ Fun fact: I'm a 17 year old danish dude 
 ###  
