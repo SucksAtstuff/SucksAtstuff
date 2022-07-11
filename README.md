@@ -25,11 +25,6 @@ I’m currently working on a game with parkour ish movement It'll be the first g
 
 <br/>  
 
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SucksAtStuff&icon=0&color=0)](https://visitcount.itsvg.in)
 
