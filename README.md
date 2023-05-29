@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a game with parkour ish movement It'll be the first game I'll ever publish<br><br>I’m currently learning C#, Game development and Game Design<br><br>All of my projects are available at isuckateverything.webador.co.uk<br><br>How to reach me isuckateverythingbussiness@gmail.com or in my [Discord](https://discord.gg/cBHknwus4a)<br><br>Fun fact I'm a 17 year old danish dude
+I’m currently working on a game with parkour ish movement It'll be the first game I'll ever publish<br><br>I’m currently learning C#, Game development and Game Design<br><br>All of my projects are available at isuckateverything.webador.co.uk<br><br>How to reach me isuckateverythingbussiness@gmail.com or in my [Discord](https://discord.gg/cBHknwus4a)<br><br>Fun fact I'm a 18 year old danish dude
 
 
 ## 🌐 Socials:
