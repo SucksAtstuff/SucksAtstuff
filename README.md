@@ -1,4 +1,3 @@
-<h3 align="center">|20 years old|Game Dev|Mod Developer|Neoforge/Forge</h3>
 
 - I'm currently working on **a Neoforge mod called Succ's Essentials.**
 
