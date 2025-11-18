@@ -1,37 +1,28 @@
-# 💫 About Me:
-I’m currently working on a game with parkour ish movement It'll be the first game I'll ever publish<br><br>I’m currently learning C#, Python, Java, Game development and Game Design<br><br>All of my projects are available at isuckateverything.webador.co.uk<br><br>How to reach me isuckateverythingbussiness@gmail.com or in my [Discord](https://discord.gg/cBHknwus4a)
+<h3 align="center">|20 years old|Game Dev|Mod Developer|Neoforge/Forge</h3>
 
+- I'm currently working on **a Neoforge mod called Succ's Essentials.**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/cBHknwus4a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isuckateverythingyt) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/IsuckAtEverythingYT) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YtIsuck) 
+- I'm currently learning **Java, C# and Python**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SucksAtStuff&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SucksAtStuff&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SucksAtStuff&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- All of my projects are available at [https://github.com/SucksAtstuff](https://github.com/SucksAtstuff)
 
-<br/>  
+- Ask me about **literally anything, probably don't know the answer but still.**
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11186991318&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+- How to reach me **isuckateverything on discord and most platforms**
 
-<br/>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ytisuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ytisuck" height="30" width="40" /></a>
+<a href="https://instagram.com/isuckateverythingyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuckateverythingyt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/isuckateverything9551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isuckateverything9551" height="30" width="40" /></a>
+<a href="https://discord.gg/cBHknwus4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cBHknwus4a" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SucksAtStuff&&style=flat-square" align="center" />
-</div>  
-  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<br/>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sucksatstuff&show_icons=true&theme=radical&locale=en&layout=compact" alt="sucksatstuff" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=SucksAtStuff&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sucksatstuff&show_icons=true&theme=radical&locale=en" alt="sucksatstuff" /></p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Succ) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Succs) 
-
- 
-
-
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sucksatstuff&theme=dark" alt="sucksatstuff" /></p>
